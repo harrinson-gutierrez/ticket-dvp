@@ -10,3 +10,6 @@ En la siguiente Url ha sido desplegada la API funcionando en un ambiente de prue
 
 * http://ticketdvpapi-env.eba-gyimxgyu.us-east-1.elasticbeanstalk.com/swagger/index.html
 
+#Docket
+
+Esta en proceso la implementación con docker
